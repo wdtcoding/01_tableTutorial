@@ -5,3 +5,5 @@
 /flutter/flutter_table_tutorial/ios/Runner.xcworkspace
 /ios/TableTutorial/TableTutorial.xcodeproj/project.xcworkspace
 /ios/TableTutorial/TableTutorial.xcodeproj/xcuserdata
+/android/gradlew
+/android/local.properties
